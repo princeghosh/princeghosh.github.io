@@ -4,7 +4,7 @@ body {
 h1, h2, p {
   color: #272C34;
 }
-h1, h2, p {
+ol, h1, h2, p {
     margin-left: auto;
     margin-right: auto;
     width: 40em
