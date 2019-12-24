@@ -1,11 +1,16 @@
 body {
   background-color: #F7F9FD;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px
 }
-h1, h2, p {
-  color: #272C34;
-}
-ol, h1, h2, p {
+
+ol, p {
+    color: #272C34;
     margin-left: auto;
     margin-right: auto;
     width: 40em
+}
+
+h1, h2 {
+  text-align: center;
 }
